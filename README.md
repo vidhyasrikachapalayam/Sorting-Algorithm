@@ -88,10 +88,11 @@ print(list_of_nums)
 ```
 
 ## Output:
-![sorting1.png](./sorting1.png)
+![sorting1](https://user-images.githubusercontent.com/119477817/215265547-376364b6-2e3b-41bf-b60d-91dbd457bdd7.png)
 
 
-![sorting2.png](./sorting%202.png)
+![sorting 2](https://user-images.githubusercontent.com/119477817/215265567-a23fab27-e7f9-4c93-b7d3-64208177dad8.png)
+
 
 
 
